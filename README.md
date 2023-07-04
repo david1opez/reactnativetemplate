@@ -1,7 +1,7 @@
 # React Native Template
 
 1. git clone https://github.com/david1opez/reactnativetemplate
-2. cd <<cloned repository directory>>
+2. cd cloned repository directory
 3. npm install
 4. change app-name && app version on package.json, package-lock.json, app.config.ts
 5. eas build:config
